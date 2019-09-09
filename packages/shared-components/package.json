@@ -1,6 +1,7 @@
 {
   "name": "@doltech/shared-components",
   "version": "0.0.1",
+  "private": true,
   "description": "shared-components React component",
   "main": "lib/index.js",
   "module": "es/index.js",
