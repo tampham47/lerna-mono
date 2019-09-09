@@ -1,6 +1,6 @@
 {
   "name": "@doltech/app-lms",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Describe app-lms here",
   "private": true,
   "scripts": {
@@ -12,7 +12,7 @@
     "test:watch": "nwb test-react --server"
   },
   "dependencies": {
-    "@doltech/shared-components": "^0.0.2",
+    "@doltech/shared-components": "^0.0.3",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   },

@@ -1,9 +1,9 @@
 {
   "name": "@doltech/app-react",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": true,
   "dependencies": {
-    "@doltech/shared-components": "^0.0.2",
+    "@doltech/shared-components": "^0.0.3",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
