@@ -5,6 +5,6 @@
     "lerna": "^3.16.4"
   },
   "dependencies": {
-    "@doltech/shared-components": "0.0.3"
+    "@doltech/shared-components": "^0.1.0"
   }
 }

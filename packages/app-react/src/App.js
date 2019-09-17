@@ -1,8 +1,15 @@
 import React from 'react';
+import styled from 'styled-components';
 
-import Button from '@doltech/shared-components/lib/Button';
+import Button from '@doltech/shared-components/es/Button';
+
 import logo from './logo.svg';
 import './App.css';
+
+// const Button2 = Button;
+const Button2 = styled.button`
+  border-radius: 4px;
+`;
 
 function App() {
   return (
@@ -20,6 +27,8 @@ function App() {
         >
           Learn React
         </a>
+        <Button2>123</Button2>
+        <Button2>123</Button2>
         <Button>123</Button>
       </header>
     </div>

@@ -14,7 +14,8 @@
   "dependencies": {
     "@doltech/shared-components": "^0.0.3",
     "react": "^16.9.0",
-    "react-dom": "^16.9.0"
+    "react-dom": "^16.9.0",
+    "styled-components": "v5.0.0-beta.8"
   },
   "devDependencies": {
     "nwb": "0.23.x"
