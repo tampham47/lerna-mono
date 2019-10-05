@@ -1,5 +1,5 @@
 {
-  "name": "@xln/app-react",
+  "name": "@xln/app-auth",
   "version": "0.0.3",
   "private": true,
   "dependencies": {

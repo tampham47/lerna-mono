@@ -1,5 +1,5 @@
 {
-  "name": "@doltech/shared-components",
+  "name": "@xln/shared",
   "version": "0.0.3",
   "description": "shared-components React component",
   "main": "lib/index.js",

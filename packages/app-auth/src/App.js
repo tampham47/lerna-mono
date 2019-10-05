@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-import Button from '@xln/shared/es/Button';
 
 const Container = styled.div`
   width: calc(100% - 2em);
@@ -12,8 +11,7 @@ const Container = styled.div`
 function App() {
   return (
     <Container>
-      <h1>React App</h1>
-      <Button>Shared Button</Button>
+      <h1>Auth app</h1>
     </Container>
   );
 }
